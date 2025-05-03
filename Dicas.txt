@@ -1,3 +1,5 @@
+Blackthorne_Dicas:
+
 Otimizando poções de saúde
 Não use poções de saúde (Heal Potions) até que o seu medidor de vida chegue a duas unidades. Desta forma, você vai otimizar o uso das poções, aproveitando-as mais, ganhando mais “quilometragem” etc.
 
